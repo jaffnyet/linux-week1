@@ -21,3 +21,7 @@ Usage:
 `./date_tool --help`
 
 With no time-zone argument, the tool displays the system's local date and time. To display another place's time, provide its IANA time-zone name, as listed in the system's zoneinfo database (usually under `/usr/share/zoneinfo`). The output includes the date, time, time-zone abbreviation, and UTC offset.
+
+## Demo
+
+![Tool demo](demo.png)
